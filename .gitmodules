@@ -1,0 +1,3 @@
+[submodule "backend/backend/li"]
+	path = backend/backend/li
+	url = https://github.com/ysasaki1/li.git
